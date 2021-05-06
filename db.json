@@ -156,7 +156,7 @@
                         "cámara",
                         "19"
                     ],
-                    "sentence": "<p id="my-input" class="fill-text">A través de los siglos el mismo arte ha creado múltiples recursos de expresiones artísticas de <input id="answer1" class="text-input" type="text"/>. Uno de los más revolucionarios es la <input id="answer2" class="text-input" type="text" /> cinematográfica (Del griego: Kinema=Movimiento + Grafein=escritura). Los prototipos de esta cámara empezaron a desarrollarse a mediados del siglo <input id="answer3" class="text-input" type="text" /> motivados por experimentos científicos y desde entonces su evolución continúa. Aunque durante ciertas proyecciones existía acompañamiento de pianos, fue a finales de los años 20's cuando se desarrolló el concepto de registro AUDIOVISUAL.</p>"
+                    "sentence": ""
                 }
             ]
             },
