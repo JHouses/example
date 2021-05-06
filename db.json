@@ -1,0 +1,206 @@
+{
+    game: [
+    {
+    _id: 1,
+    title: "ESCRIBIMOS, LUEGO EXISTIMOS",
+    text: "<p>Es preferible que un trabajo AUDIOVISUAL sea un cuestionamiento sobre un concepto y no una declaración. Es preferible considerar al espectador como otro SER AUDIOVISUAL quien complementa la experiencia a través del diálogo y no como un ser sin la libertad o con incapacidad de interpretar. Al establecer entonces un fundamento filosófico y considerar al espectador, es cuando nace este diálogo. El fundamento filosófico de un trabajo debe eventualmente adaptarse para el medio en el que se escribe. El guion de cine, por ejemplo, es diferente a otros medios. En un guion, el fundamento filosófico debe generalmente adaptarse a un formato narrativo.</p><p>La influencia de Aristóteles en la narración moderna es evidentemente. Según Aristóteles, la narración debe cumplir con estos requisitos básicos: Personaje, objetivo, obstáculos, motivación, urgencia. El resultado articulado es el siguiente: Un personaje que persiga un objetivo por el cual tiene una motivación y urgencia, pero este personaje tiene dificultad recurrente por conseguir ese objetivo debido a obstáculos personificados usualmente en un antagonista. Los diálogos, la música diegética o no diegética y el ambiente usados en formato narrativo, completan la experiencia AUDIOVISUAL. La intención principal del guion de cine es ser un manuscrito para ser dramatizado. La narración comunicada en un guion está en proceso constante de reescritura, ya sea durante las diferentes versiones antes de filmar, a veces durante la misma filmación, durante la edición e incluso en la experiencia del espectador. </p><p>En la actualidad existen herramientas digitales para la escritura narrativa. El programa y formato usado en la industria, para el entendimiento común, es el Final Draft. Adicionalmente a múltiples recursos inherentes en el programa y preferencias como la escritura en tiempo verbal presente, el formato general funciona de tal manera que una página represente aproximadamente un minuto en pantalla. </p>",
+    gameDescription: "<p><strong>JUEGO:</strong>Hay que completar una frase que refuerza el contenido del texto con una palabra a través del juego de ahorcado.</p>",
+    gameType: "hangman",
+    options: {
+    words: [
+    "cine",
+    "pelicula",
+    "semilla",
+    "obra"
+    ]
+    },
+    route: "modulos/modulo-1/antropos",
+    layout: "contentModule",
+    position: 1
+    },
+    {
+    _id: 2,
+    title: "ACTUAMOS, LUEGO EXISTIMOS ",
+    text: "<p>Las semillas son a la tierra, como los actores a una obra de cine. El proceso de selección de semillas en el cine se conoce como audición. Es útil hacer una preselección de actores antes de la selección final. El fundamento de un método de selección es la claridad respecto a los actores que se buscan. Generalmente, un actor profesional se aborda por su agente a diferencia de un actor no profesional. El lenguaje durante una audición, es específico sobre el cine con un actor profesional y generalizado con un actor no profesional. Como eventualmente la actuación será filmada, es preferible también ver a los actores a través de una cámara para entender como esta influye en los actores. Es crucial analizar el valor humano de los actores aparte de su talento actoral ya que a la hora de trabajar son un beneficio los actores con virtudes humanas aparte de talento actoral. Es preferible que un actor tenga facilidad para comprender y buena memoria. Así como es necesario preparar la tierra rigurosamente para sembrar, el mismo rigor es necesario para una audición.</p><p>Y así como existen varias categorías de semillas, también existen varias categorías de actores: Profesionales adultos, profesionales niños, no profesionales adultos, no profesionales niños, animales y actores animados que incluyen todas las categorías anteriores incluso objetos antropomórficos o con personalidad. Como humanos, tanto los actores profesionales como los no profesionales son seres sensibles y por eso el tacto es fundamental en el momento de relacionarse con ellos. El mayor reto es trabajar con no profesionales niños y con animales sin entrenamiento. Los actores son seres audiovisuales de gran creatividad y capacidad creativa y estos atributos deben ser respetados y considerados.</p><p>Si se decide ensayar, es útil para los actores tener una comprensión general del trozo de realidad que deben recrear o del trozo de fantasía que deben inventar. Para esta introducción se puede empezar por marcarle a los actores su trayecto físico por el espacio. Progresivamente se pueden especificar acciones, diálogo y la relación de los actores con la cámara. </p>",
+    gameDescription: "<p><strong>JUEGO:</strong>Sopa de letras</p>",
+    gameType: "puzzle",
+    options: {
+    words: [
+    "cine",
+    "película",
+    "semilla",
+    "obra"
+    ]
+    },
+    route: "modulos/modulo-1/kinski",
+    layout: "puzzle",
+    position: 2
+    },
+    {
+    _id: 3,
+    title: "IMAGINAMOS, LUEGO EXISTIMOS",
+    text: "<p>La odisea de la imagen comienza con su gestación en una sola mente humana. Es específicamente en el lóbulo occipital donde se crean y nacen las imágenes. Este proceso ocurre conscientemente durante la vigilia o inconscientemente durante los sueños. Las imágenes son materializadas a través del dibujo sobre papel. En algunas ocasiones esta materialización se hace de manera digital. Estos dibujos son secuenciados para formar una narración. Ya sea de manera física o digital, las imágenes se evalúan con el fin de encontrar un nivel adecuado para el siguiente destino de la odisea: La transferencia de estas imágenes en maduración a nuevas mentes humanas o de inteligencia artificial</p><p>La imagen es transferida no solo a las mentes humanas como la de un cinematógrafo, un luminotécnico, un actor o un director de arte, sino a la mente de inteligencia artificial-visual por excelencia: La cámara. De la misma manera como el cerebro humano ha evolucionado de una especie a otra, la cámara ha evolucionado de formatos análogos precarios, a formatos análogos sofisticados, a formatos digitales precarios, a formatos digitales sofisticados. Así como la travesía de la imagen por el ojo humano hasta el cerebro necesita de múltiples componentes, la cámara necesita de sensibilidad lumínica, lentes, distancia, precisión, capas sensible análogas de memoria visual como el celuloide o digitales como las tarjetas.</p><p>Así como el cerebro humano necesita de un cuerpo con órganos y extremidades para funcionar y decidir su movilidad, la cámara necesita los cables, la electricidad, los trípodes, los rieles, los estabilizadores, grúas y accesorios. En este punto de la odisea la imagen accede múltiples veces a la memoria de la cámara. El proceso continúa durante varios días. Cada día las imágenes se clonan con el fin de prevenir su pérdida y se almacenan en memorias externas a la cámara.</p><p>Durante esta fase, las imágenes son extraídas de las memorias externas e insertadas en computadores para ser procesadas. El proceso consiste en eliminar imágenes repetidas seleccionando las más útiles, secuenciar las imágenes, decidir su duración, corregir su color, consolidar la secuencia narrativa de imágenes, extraer esa secuencia del computador e insertarla en otra memoria externa que eventualmente será multiplicada para ser reproducida.</p><p>La odisea de la secuencia narrativa de las imágenes finaliza con el acceso a millones de cerebros, donde permanece hasta el inevitable fenómeno natural de la muerte humana.</p>",
+    gameDescription: "<p><strong>JUEGO:</strong>Armar rompecabezas con una imagen emblemática acerca del audiovisual. </p>",
+    gameType: "puzzle",
+    options: { },
+    route: "",
+    layout: "contentModule",
+    position: 3
+    },
+    {
+    _id: 4,
+    title: "OÍMOS, LUEGO EXISTIMOS",
+    text: "<p>Existe una palabra que hace referencia a la creación de imágenes en el cerebro: Imaginación. ¿Pero por qué no existe una palabra equivalente a la creación de sonidos en el cerebro? Inventemos una trinidad de equivalencias para hacerle justicia al concepto AUDIOVISUAL: Fonogestación, Sonogénesis, Audiofertilización.</p><p>La odisea del sonido comienza con su gestación en una sola mente humana. Es específicamente en el lóbulo temporal donde se crean y nacen los sonidos. Este proceso ocurre conscientemente durante la vigilia o inconscientemente durante los sueños. Los sonidos son materializados a través de la descripción escrita. Estas descripciones son secuenciadas para formar una narración. Leyendo las descripciones, los sonidos se evalúan con el fin de encontrar un nivel adecuado para el siguiente destino de la odisea: La transferencia de estos sonidos en maduración a nuevas mentes humanas o mentes de inteligencia artificial.</p><p>El sonido es transferido no sólo a las mentes humanas como la de un microfonista, un supervisor de sonido, o un actor, sino a la mente de inteligencia artificial-auditiva por excelencia: La grabadora de audio. De la misma manera como el cerebro humano ha evolucionado de una especie a otra, la grabadora de audio ha evolucionado de formatos análogos precarios, a formatos análogos sofisticados, a formatos digitales precarios, a formatos digitales sofisticados. Así como la travesía de la imagen por el oído humano hasta el cerebro necesita de múltiples componentes, la grabadora de audio necesita de sensibilidad, filtros, distancia, precisión, moduladores, memoria.</p><p>Así como el cerebro humano necesita de un cuerpo con órganos y extremidades para funcionar y decidir su movilidad, la grabadora de audio necesita los cables, la electricidad, accesorios y operadores. En este punto de la odisea el audio accede múltiples veces a la memoria de la grabadora. Cada día el audio se clona con el fin de prevenir su pérdida y se almacena en memorias externas a la grabadora.</p><p>Durante esta fase, el audio es extraído de las memorias externas e insertado en computadores para ser procesados. El proceso consiste en eliminar audio repetido seleccionando el más útil, secuenciar los audios, decidir su duración, corregir su textura, consolidar la secuencia narrativa de audios, y eventualmente llegar al momento más importante de la creación AUDIOVISUAL: La sincronización. Eventualmente la secuencia sincronizada se extrae del computador e inserta en otra memoria externa que eventualmente será multiplicada para ser reproducida.</p><p>La odisea de la secuencia narrativa AUDIOVISUAL finaliza con el acceso a millones de cerebros, donde permanece hasta el inevitable fenómeno natural de la muerte humana.</p>",
+    gameDescription: "<p><strong>JUEGO:</strong>Escuchamos un audio acerca del lugar que representa una imagen. Se deben seleccionar las palabras que describen los sonidos que componen el audio.</p>",
+    gameType: "dictation",
+    options: {
+    audios: [
+    {
+    id: 1,
+    url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    words: [
+    "cine",
+    "obra"
+    ]
+    },
+    {
+    id: 2,
+    url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    words: [
+    "pelicula",
+    "semilla"
+    ]
+    },
+    {
+    id: 3,
+    url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    words: [
+    "test",
+    "testing"
+    ]
+    }
+    ]
+    },
+    route: "",
+    layout: "",
+    position: 4
+    },
+    {
+    _id: 5,
+    title: "PRODUCIMOS, LUEGO EXISTIMOS ",
+    text: "<p>El trabajo de producir tiene múltiples fases determinadas principalmente por los factores temporales y monetarios al servicio del factor creativo.</p><p>Fase de Desarrollo: Esta fase está generalmente relacionada con la concepción del proyecto y la escritura o selección de un guion. Para escribir el guion primero se desarrolla una sinopsis, después un tratamiento y finalmente se desarrollan los diálogos y especificidades. Eventualmente se desarrollan varias versiones del guion y un presupuesto y cronograma general del proyecto. Con todos los documentos que se desarrollan se hacen aplicaciones estatales y privadas para conseguir fondos. Esta fase puede tardar varios años y ser tediosa, por esta razón es conocida como El Infierno del Desarrollo.</p><p>Fase de Desarrollo: Esta fase está generalmente relacionada con la concepción del proyecto y la escritura o selección de un guion. Para escribir el guion primero se desarrolla una sinopsis, después un tratamiento y finalmente se desarrollan los diálogos y especificidades. Eventualmente se desarrollan varias versiones del guion y un presupuesto y cronograma general del proyecto. Con todos los documentos que se desarrollan se hacen aplicaciones estatales y privadas para conseguir fondos. Esta fase puede tardar varios años y ser tediosa, por esta razón es conocida como El Infierno del Desarrollo.</p><p>Fase de preproducción: Aparte de crear un presupuesto para esta fase, también se crea un cronograma para los días de producción que contiene información precisa de responsabilidades y responsables. Acá se conforma el equipo creativo y técnico y se hacen reuniones periódicas para sincronizar la visión de la producción. Se hacen pruebas técnicas y creativas. Algunas de las reuniones y pruebas se hacen durante las visitas de locaciones.</p><p>Fase de producción: En esta fase se captura la imagen y audio intentando no exceder ni el presupuesto y ni el tiempo programado. El principal responsable de la captura AUDIOVISUAL es el director. El principal responsable del presupuesto y tiempo es el productor. Esta fase presenta gran presión física y psicológica debida al ritmo, intensidad de trabajo y los imprevistos.</p><p>Fase de posproducción: En esta fase el material AUDIOVISUAL se ensambla para lograr el resultado final. Dependiendo de la flexibilidad de producción, en algunas ocasiones es posible producir nuevos minutos de material en caso de ver una necesidad o en caso de una gran idea para la posproducción. Aunque en menor escala, para crear nuevo material es necesario repetir todo el proceso de producción.</p>",
+    gameDescription: "<p><strong>JUEGO:</strong>Crucigrama</p>",
+    gameType: "crossword",
+    options: {
+    words: [
+    {
+    word: "cine",
+    description: "Sinónimo de película"
+    },
+    {
+    word: "pelicula",
+    description: "Sinónimo de cine"
+    },
+    {
+    word: "semilla",
+    description: "Fruto de la tierra"
+    },
+    {
+    word: "obra",
+    description: "Es similar al arte, es la apreciación de..."
+    },
+    {
+    word: "audiovisual",
+    description: "Es el complemento del especial ser..."
+    },
+    {
+    word: "cinta",
+    description: "Rodillo y mecanismo antiguo para la visualización de..."
+    },
+    {
+    word: "actor",
+    description: "Persona que interpreta un personaje en una obra."
+    },
+    {
+    word: "camara",
+    description: "Elemento de grabación"
+    }
+    ]
+    },
+    route: "",
+    layout: "",
+    position: 5
+    },
+    {
+    _id: 6,
+    title: "EDITAMOS, LUEGO EXISTIMOS ",
+    text: "<p>Una de las primeras piezas AUDIOVISUALES en unir dos planos se editó en 1898. La pieza, creada por el Inglés Robert W.Paul, se llama 'Come along, do!'. Antes de esta mágica unión de planos que estableció el concepto de la edición, la gran mayoría de los cortometrajes seguían un lógica continuidad temporal pero con planos continuos.</p><p>Para las nuevas generaciones de cineastas sin experiencia empírica en celuloide, sería útil poder experimentar con celuloide para entender la esencia tangible de la edición. No sobra recordar cierta teoría. El proceso de edición comienza generalmente con una copia de trabajo. Esta es una copia positiva de un negativo fílmico. Fracciones de la copia se ensamblan en la mesa de edición donde se controla su movimiento con rotación. Para poder visualizar se inserta la copia en un aparato de magnificación. Con lápices especiales se pueden hacer marcas sobre el positivo. Al momento de cortar se inserta el positivo en un cortador de precisión. Los segmentos cortados se pueden colgar en soportes especiales en el cuarto de edición. En el momento de pegar se seleccionan segmentos y se pegan con cinta u orto tipo de adhesivo. El proceso continúa hasta tener una reconfiguración y la decisión creativa de la copia final. Aunque la revolución digital es un fenómeno reciente, incluso hasta el día de hoy se filman y/o proyectan películas en celuloide. Con los avances tecnológicos de los teléfonos móviles, las facilidades de acceso y aplicaciones, la edición digital se está convirtiendo en una acción tan común como la de operar un ascensor.</p><p>La técnica tangible o intangible de la edición se aprende con mayor facilidad y eficiencia que la filosofía de las decisiones editoriales. Una de las grandes paradojas del arte AUDIOVISUAL y sus especialidades creativas, es que las adicional a la del arte AUDIOVISUAL. Es por eso que estudios y experiencias como los siguientes son el fundamento más útil no solo para editar, sino para el resto de labores del SER AUDIOVISUAL: Agricultura, Botánica, Antropología, Vigilancia, Derecho, Pastelería, Biología, Conducción, Cocina, Política, Teología, Bacteriología, Contaduría, Ecología, Economía, Enfermería, Historia, Ingeniería, conversar con todo tipo de personas, construir un igloo, escalar un volcán, interactuar con una hiena, pescar con arpón, acampar solo en la selva, atravesar África caminando, sembrar un árbol.</p>",
+    gameDescription: "<p><strong>JUEGO:</strong>Cartas</p>",
+    gameType: "flashcards",
+    options: { },
+    route: "",
+    layout: "",
+    position: 6
+    },
+    {
+    _id: 7,
+    title: "PENSAMOS, LUEGO EXISTIMOS ",
+    text: "<p>Las primeras expresiones artísticas de filosofía nacieron hace aproximadamente 40,000 años con el arte rupestre. Estas expresiones fueron grabadas sobre las rocas de cavernas prehistóricas. La caverna se vincula con la filosofía Platónica y su popular Alegoría de la Caverna donde se establece que el principal problema de la existencia humana es la ilusión.</p><p>Una de las funciones filosóficas es el establecimiento de problemas humanos y la creación de soluciones. Para alcanzar originalidad, evitando repetir, fue y es necesario conocer la historia de las ideas en términos de soluciones a problemas humanos. En general, la mayoría de los pensadores han establecido el mismo problema de la ilusión, pero cada uno de ellos ha creado soluciones originales. Posiblemente una manera útil de entender la historia de la filosofía occidental es estructurando sus eras: Era Antigua, Era Medieval, Era Moderna. La Era Antigua empieza en el siglo 6 a.C. y termina en el siglo 5 d.C. Esta era es caracterizada principalmente por pensadores Griegos. Entre los principales pensadores se encuentran cronológicamente: Thales de Mileto, Sócrates, Platón, Aristóteles. Estos y otros pensadores fueron responsables de varias corrientes filosóficas como La Platónica donde Platón estudiaba a Sócrates, la Peripatética de Aristóteles, el cinismo y el estoicismo. De los anteriores el más relevante al arte AUDIOVISUAL es Aristóteles ya que su libro Poética describe los fundamentos de la escritura y el drama. La Era Medieval empieza en el siglo 5 d.C. y termina en el siglo 16 d.C. Esta era está caracterizada por el pensamiento Cristiano pero continua con tradiciones de pensamiento Griego. Algunos de los principales representantes de esta era son San Agustín, Tomás de Aquino y Bacon. La principal escuela de esta era es la del escolasticismo, basada en la lógica de Aristóteles. La Era Moderna va desde el fin de la Era Medieval y continua su existencia hasta la actualidad. Aparte de los grandes pensadores de La Ilustración, uno de los principales exponentes de la Era Moderna es René Descartes, creador de una de las frases existenciales más célebres: 'Pienso, Luego Existo'. Esta frase ha motivado el título de este y los capítulos siguientes del SER AUDIOVISUAL.</p><p>A través de los siglos el mismo arte ha creado múltiples recursos de expresiones artísticas de filosofía. Uno de los más revolucionarios recursos es la cámara cinematográfica (Del griego: Kinema=Movimiento + Grafein=escritura). Los prototipos de esta cámara empezaron a desarrollarse a mediados del siglo 19 motivados por experimentos científicos y desde entonces su evolución continúa. Aunque durante ciertas proyecciones existía acompañamiento de pianos, fue a finales de los años 20's cuando se desarrolló el concepto de registro AUDIOVISUAL.</p>",
+    gameDescription: "<p><strong>JUEGO:</strong> Llenar espacios en blanco con la información más importante acerca del texto</p>",
+    gameType: "fillintheblank",
+    options: {
+    sentences: [
+    {
+    keywords: [
+    "filosofía",
+    "cámara",
+    "19"
+    ],
+    sentence: "<p id="my-input" class="fill-text">A través de los siglos el mismo arte ha creado múltiples recursos de expresiones artísticas de <input id="answer1" class="text-input" type="text"/>. Uno de los más revolucionarios es la <input id="answer2" class="text-input" type="text" /> cinematográfica (Del griego: Kinema=Movimiento + Grafein=escritura). Los prototipos de esta cámara empezaron a desarrollarse a mediados del siglo <input id="answer3" class="text-input" type="text" /> motivados por experimentos científicos y desde entonces su evolución continúa. Aunque durante ciertas proyecciones existía acompañamiento de pianos, fue a finales de los años 20's cuando se desarrolló el concepto de registro AUDIOVISUAL.</p>"
+    }
+    ]
+    },
+    route: "",
+    layout: "",
+    position: 7
+    },
+    {
+    _id: 8,
+    title: "CREAMOS, LUEGO EXISTIMOS ",
+    text: "<p>La creatividad se debe a la fusión de dos o más conceptos. La fusión conceptual primordial es la unión del espermatozoide y el óvulo donde un cigoto es creado. Cigoto (Del griego: unido). La diferencia entre la creatividad y la originalidad radica en que la segunda califica el nivel de novedad de las uniones conceptual de la primera. La creatividad y la originalidad son entrenables a través de la metacognición, conocimiento sobre procesos del mismo conocimiento. </p><p>En un experimento cognitivo se conectaron electroencefalogramas a varios matemáticos quienes estaban resolviendo problemas. Invariablemente, el experimento demostró que en el momento de solución de un problema el cerebro producía una onda cerebral Gama y que esa onda estaba precedida por Alfa. Las ondas Gama tienen una frecuencia asociada con estados alterados mientras que las Alfa con estados de calma. El experimento interpreta que para lograr soluciones creativas es necesario inducir ondas Alfa. ¿Cómo entonces inducir ondas Alfa en el cerebro?</p><p>En otro experimento cognitivo se excitaron dos caballos, de similar estado físico, sometiéndolos a correr a gran velocidad la misma distancia. Después de correr cada caballo fue guardado en un establo, pero uno de ellos se calmó más rápido y su cerebro estaba produciendo ondas Alfa. ¿Por qué? Porque el establo de ese caballo esta pintado de azul y el del caballo aún alterado de rojo. Aunque existen múltiples maneras de inducir ondas Alfa con fines creativos, este experimento define que la influencia del color en el cerebro es una de esas maneras.</p><p>No solo con el color se controla la creatividad y originalidad. En otro experimento, participantes con capacidad promedio de dibujo fueron sometidos a dibujar un animal. Los resultados fueron desastrosos. Inmediatamente los participantes fueron sometidos a varios minutos de Estimulación Magnética Transcraneal donde su hemisferio cerebral izquierdo fue estimulado. Después de varios minutos la estimulación el hemisferio izquierdo se inhabilitó temporalmente dando como resultado un fortalecimiento, también temporal, del hemisferio derecho que controla la mayoría del aspecto visual. Nuevamente los participantes fueron sometidos a repetir el dibujo, pero esta vez los resultados, sorpresivamente, fueron obras maestras.</p>",
+    gameDescription: "<p><strong>JUEGO:</strong> Encontrar las parejas de imágenes que crean conceptos o tienen relación de acuerdo al texto.</p>",
+    gameType: "memorycards",
+    options: {
+    CardTypes: [
+    {
+    name: "vue",
+    image: "https://vuejs.org/images/logo.png"
+    },
+    {
+    name: "express",
+    image: "https://www.jquery-az.com/html/images/banana.jpg"
+    },
+    {
+    name: "mongo",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/527px-MongoDB-Logo.svg.png"
+    },
+    {
+    name: "nodejs",
+    image: "https://worldvectorlogo.com/logos/nodejs-icon.svg"
+    },
+    {
+    name: "webpack",
+    image: "https://camo.githubusercontent.com/66747a6e05a799aec9c6e04a3e721ca567748e8b/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313336353838312f313931383337332f32653035373166612d376462632d313165332d383436352d3839356632393164343366652e706e67"
+    },
+    {
+    name: "babel",
+    image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg"
+    }
+    ]
+    },
+    route: "",
+    layout: "",
+    position: 8
+    }
+    ]
+}
