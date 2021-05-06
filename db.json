@@ -1,50 +1,22 @@
 {
     "game": [
         {
-            "_id": 1,
-            "title": "PRODUCIMOS, LUEGO EXISTIMOS ",
+            "_id": 2,
+            "title": "ACTUAMOS, LUEGO EXISTIMOS ",
             "text": "<p>Nicer Dicer</p>",
-            "gameDescription": "<p><strong>JUEGO:</strong>Crucigrama</p>",
-            "gameType": "crossword",
+            "gameDescription": "<p><strong>JUEGO:</strong>Sopa de letras</p>",
+            "gameType": "wordsearch",
             "options": {
             "words": [
-                {
-                    "word": "cine",
-                    "description": "Sinónimo de película"
-                },
-                {
-                    "word": "pelicula",
-                    "description": "Sinónimo de cine"
-                },
-                {
-                    "word": "semilla",
-                    "description": "Fruto de la tierra"
-                },
-                {
-                    "word": "obra",
-                    "description": "Es similar al arte, es la apreciación de..."
-                },
-                {
-                    "word": "audiovisual",
-                    "description": "Es el complemento del especial ser..."
-                },
-                {
-                    "word": "cinta",
-                    "description": "Rodillo y mecanismo antiguo para la visualización de..."
-                },
-                {
-                    "word": "actor",
-                    "description": "Persona que interpreta un personaje en una obra."
-                },
-                {
-                    "word": "camara",
-                    "description": "Elemento de grabación"
-                }
+                "cine",
+                "película",
+                "semilla",
+                "obra"
             ]
             },
-            "route": "",
-            "layout": "",
-            "position": 1
+            "route": "modulos/modulo-1/kinski",
+            "layout": "puzzle",
+            "position": 2
         }
     ]
 }

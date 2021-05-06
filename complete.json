@@ -23,7 +23,7 @@
             "title": "ACTUAMOS, LUEGO EXISTIMOS ",
             "text": "<p>Nicer Dicer</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Sopa de letras</p>",
-            "gameType": "puzzle",
+            "gameType": "wordsearch",
             "options": {
             "words": [
                 "cine",
