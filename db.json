@@ -2,7 +2,7 @@
     "game": [
         {
             "_id": 1,
-            "title": "ACTUAMOS, LUEGO EXISTIMOS ",
+            "title": "Acertijo",
             "text": "<p>Nicer Dicer</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Sopa de letras</p>",
             "gameType": "puzzle",
