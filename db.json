@@ -1,7 +1,7 @@
 {
     "game": [
         {
-            "_id": 2,
+            "_id": 1,
             "title": "ACTUAMOS, LUEGO EXISTIMOS ",
             "text": "<p>Nicer Dicer</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Sopa de letras</p>",
@@ -16,7 +16,7 @@
             },
             "route": "modulos/modulo-1/kinski",
             "layout": "puzzle",
-            "position": 2
+            "position": 1
         }
     ]
 }
