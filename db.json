@@ -2,20 +2,48 @@
     "game": [
         {
             "_id": 1,
-            "title": "Acertijo",
+            "title": "PRODUCIMOS, LUEGO EXISTIMOS ",
             "text": "<p>Nicer Dicer</p>",
-            "gameDescription": "<p><strong>JUEGO:</strong>Sopa de letras</p>",
-            "gameType": "puzzle",
+            "gameDescription": "<p><strong>JUEGO:</strong>Crucigrama</p>",
+            "gameType": "crossword",
             "options": {
             "words": [
-                "cine",
-                "película",
-                "semilla",
-                "obra"
+                {
+                    "word": "cine",
+                    "description": "Sinónimo de película"
+                },
+                {
+                    "word": "pelicula",
+                    "description": "Sinónimo de cine"
+                },
+                {
+                    "word": "semilla",
+                    "description": "Fruto de la tierra"
+                },
+                {
+                    "word": "obra",
+                    "description": "Es similar al arte, es la apreciación de..."
+                },
+                {
+                    "word": "audiovisual",
+                    "description": "Es el complemento del especial ser..."
+                },
+                {
+                    "word": "cinta",
+                    "description": "Rodillo y mecanismo antiguo para la visualización de..."
+                },
+                {
+                    "word": "actor",
+                    "description": "Persona que interpreta un personaje en una obra."
+                },
+                {
+                    "word": "camara",
+                    "description": "Elemento de grabación"
+                }
             ]
             },
-            "route": "modulos/modulo-1/kinski",
-            "layout": "puzzle",
+            "route": "",
+            "layout": "",
             "position": 1
         }
     ]
