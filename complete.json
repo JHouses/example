@@ -2,17 +2,35 @@
     "game": [
         {
             "_id": 1,
-            "title": "IMAGINAMOS, LUEGO EXISTIMOS",
+            "title": "Acertijo",
+            "text": "<p>Text</p>",
+            "gameDescription": "<p><strong>JUEGO:</strong>Hay que completar una frase que refuerza el contenido del texto con una palabra a través del juego de ahorcado.</p>",
+            "gameType": "hangman",
+            "options": {
+            "words": [
+                "cine",
+                "pelicula",
+                "semilla",
+                "obra"
+            ]
+            },
+            "route": "modulos/modulo-1/text",
+            "layout": "contentModule",
+            "position": 1
+        },
+        {
+            "_id": 2,
+            "title": "Acertijo",
             "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Armar rompecabezas con una imagen emblemática acerca del audiovisual. </p>",
             "gameType": "puzzle",
             "options": { },
             "route": "modulos/modulo-1/texto",
             "layout": "contentModule",
-            "position": 1
+            "position": 2
         },
         {
-            "_id": 2,
+            "_id": 3,
             "title": "Acertijo",
             "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Sopa de letras</p>",
@@ -27,67 +45,11 @@
             },
             "route": "modulos/modulo-1/text",
             "layout": "contentModule",
-            "position": 2
-        },
-        {
-            "_id": 3,
-            "title": "ESCRIBIMOS, LUEGO EXISTIMOS",
-            "text": "<p>Text</p>",
-            "gameDescription": "<p><strong>JUEGO:</strong>Hay que completar una frase que refuerza el contenido del texto con una palabra a través del juego de ahorcado.</p>",
-            "gameType": "hangman",
-            "options": {
-            "words": [
-                "cine",
-                "pelicula",
-                "semilla",
-                "obra"
-            ]
-            },
-            "route": "modulos/modulo-1/text",
-            "layout": "contentModule",
             "position": 3
         },
         {
             "_id": 4,
-            "title": "OÍMOS, LUEGO EXISTIMOS",
-            "text": "<p>Text</p>",
-            "gameDescription": "<p><strong>JUEGO:</strong>Escuchamos un audio acerca del lugar que representa una imagen. Se deben seleccionar las palabras que describen los sonidos que componen el audio.</p>",
-            "gameType": "dictation",
-            "options": {
-            "audios": [
-                {
-                "id": 1,
-                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-                "words": [
-                    "cine",
-                    "obra"
-                    ]
-                },
-                {
-                "id": 2,
-                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-                "words": [
-                    "pelicula",
-                    "semilla"
-                    ]
-                },
-                {
-                "id": 3,
-                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-                "words": [
-                    "test",
-                    "testing"
-                    ]
-                }
-            ]
-            },
-            "route": "modulos/modulo-1/texto",
-            "layout": "contentModule",
-            "position": 4
-        },
-        {
-            "_id": 5,
-            "title": "PRODUCIMOS, LUEGO EXISTIMOS ",
+            "title": "Acertijo",
             "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Crucigrama</p>",
             "gameType": "crossword",
@@ -124,6 +86,44 @@
                 {
                     "word": "camara",
                     "description": "Elemento de grabación"
+                }
+            ]
+            },
+            "route": "modulos/modulo-1/texto",
+            "layout": "contentModule",
+            "position": 4
+        },
+        {
+            "_id": 5,
+            "title": "OÍMOS, LUEGO EXISTIMOS",
+            "text": "<p>Text</p>",
+            "gameDescription": "<p><strong>JUEGO:</strong>Escuchamos un audio acerca del lugar que representa una imagen. Se deben seleccionar las palabras que describen los sonidos que componen el audio.</p>",
+            "gameType": "dictation",
+            "options": {
+            "audios": [
+                {
+                "id": 1,
+                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+                "words": [
+                    "cine",
+                    "obra"
+                    ]
+                },
+                {
+                "id": 2,
+                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+                "words": [
+                    "pelicula",
+                    "semilla"
+                    ]
+                },
+                {
+                "id": 3,
+                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+                "words": [
+                    "test",
+                    "testing"
+                    ]
                 }
             ]
             },
