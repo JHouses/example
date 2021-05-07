@@ -2,8 +2,37 @@
     "game": [
         {
             "_id": 1,
+            "title": "IMAGINAMOS, LUEGO EXISTIMOS",
+            "text": "<p>Text</p>",
+            "gameDescription": "<p><strong>JUEGO:</strong>Armar rompecabezas con una imagen emblemática acerca del audiovisual. </p>",
+            "gameType": "puzzle",
+            "options": { },
+            "route": "modulos/modulo-1/texto",
+            "layout": "contentModule",
+            "position": 1
+        },
+        {
+            "_id": 2,
+            "title": "Acertijo",
+            "text": "<p>Text</p>",
+            "gameDescription": "<p><strong>JUEGO:</strong>Sopa de letras</p>",
+            "gameType": "wordsearch",
+            "options": {
+            "words": [
+                "cine",
+                "foco",
+                "luz",
+                "lente"
+            ]
+            },
+            "route": "modulos/modulo-1/text",
+            "layout": "contentModule",
+            "position": 2
+        },
+        {
+            "_id": 3,
             "title": "ESCRIBIMOS, LUEGO EXISTIMOS",
-            "text": "<p>Nicer Dicer</p>",
+            "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Hay que completar una frase que refuerza el contenido del texto con una palabra a través del juego de ahorcado.</p>",
             "gameType": "hangman",
             "options": {
@@ -14,43 +43,14 @@
                 "obra"
             ]
             },
-            "route": "modulos/modulo-1/antropos",
-            "layout": "contentModule",
-            "position": 1
-        },
-        {
-            "_id": 2,
-            "title": "ACTUAMOS, LUEGO EXISTIMOS ",
-            "text": "<p>Nicer Dicer</p>",
-            "gameDescription": "<p><strong>JUEGO:</strong>Sopa de letras</p>",
-            "gameType": "wordsearch",
-            "options": {
-            "words": [
-                "cine",
-                "película",
-                "semilla",
-                "obra"
-            ]
-            },
-            "route": "modulos/modulo-1/kinski",
-            "layout": "puzzle",
-            "position": 2
-        },
-        {
-            "_id": 3,
-            "title": "IMAGINAMOS, LUEGO EXISTIMOS",
-            "text": "<p>Nicer Dicer</p>",
-            "gameDescription": "<p><strong>JUEGO:</strong>Armar rompecabezas con una imagen emblemática acerca del audiovisual. </p>",
-            "gameType": "puzzle",
-            "options": { },
-            "route": "",
+            "route": "modulos/modulo-1/text",
             "layout": "contentModule",
             "position": 3
         },
         {
             "_id": 4,
             "title": "OÍMOS, LUEGO EXISTIMOS",
-            "text": "<p>Nicer Dicer</p>",
+            "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Escuchamos un audio acerca del lugar que representa una imagen. Se deben seleccionar las palabras que describen los sonidos que componen el audio.</p>",
             "gameType": "dictation",
             "options": {
@@ -81,14 +81,14 @@
                 }
             ]
             },
-            "route": "",
-            "layout": "",
+            "route": "modulos/modulo-1/texto",
+            "layout": "contentModule",
             "position": 4
         },
         {
             "_id": 5,
             "title": "PRODUCIMOS, LUEGO EXISTIMOS ",
-            "text": "<p>Nicer Dicer</p>",
+            "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Crucigrama</p>",
             "gameType": "crossword",
             "options": {
@@ -127,25 +127,25 @@
                 }
             ]
             },
-            "route": "",
-            "layout": "",
+            "route": "modulos/modulo-1/texto",
+            "layout": "contentModule",
             "position": 5
         },
         {
             "_id": 6,
             "title": "EDITAMOS, LUEGO EXISTIMOS ",
-            "text": "<p>Nicer Dicer</p>",
+            "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Cartas</p>",
             "gameType": "flashcards",
             "options": { },
-            "route": "",
-            "layout": "",
+            "route": "modulos/modulo-1/texto",
+            "layout": "contentModule",
             "position": 6
         },
         {
             "_id": 7,
             "title": "PENSAMOS, LUEGO EXISTIMOS ",
-            "text": "<p>Nicer Dicer</p>",
+            "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong> Llenar espacios en blanco con la información más importante acerca del texto</p>",
             "gameType": "fillintheblank",
             "options": {
@@ -160,14 +160,14 @@
                 }
             ]
             },
-            "route": "",
-            "layout": "",
+            "route": "modulos/modulo-1/texto",
+            "layout": "contentModule",
             "position": 7
         },
         {
             "_id": 8,
             "title": "CREAMOS, LUEGO EXISTIMOS ",
-            "text": "<p>Nicer Dicer</p>",
+            "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong> Encontrar las parejas de imágenes que crean conceptos o tienen relación de acuerdo al texto.</p>",
             "gameType": "memorycards",
             "options": {
@@ -198,8 +198,8 @@
                     }
                 ]
             },
-            "route": "",
-            "layout": "",
+            "route": "modulos/modulo-1/texto",
+            "layout": "contentModule",
             "position": 8
         }     
     ]
