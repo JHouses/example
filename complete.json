@@ -14,7 +14,7 @@
                 "obra"
             ]
             },
-            "route": "modulos/modulo-1/text",
+            "route": "modulos/modulo-1/texto",
             "layout": "contentModule",
             "position": 1
         },
@@ -31,24 +31,6 @@
         },
         {
             "_id": 3,
-            "title": "Acertijo",
-            "text": "<p>Text</p>",
-            "gameDescription": "<p><strong>JUEGO:</strong>Sopa de letras</p>",
-            "gameType": "wordsearch",
-            "options": {
-            "words": [
-                "cine",
-                "foco",
-                "luz",
-                "lente"
-            ]
-            },
-            "route": "modulos/modulo-1/text",
-            "layout": "contentModule",
-            "position": 3
-        },
-        {
-            "_id": 4,
             "title": "Acertijo",
             "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Crucigrama</p>",
@@ -87,6 +69,24 @@
                     "word": "camara",
                     "description": "Elemento de grabación"
                 }
+            ]
+            },
+            "route": "modulos/modulo-1/texto",
+            "layout": "contentModule",
+            "position": 3
+        },
+        {
+            "_id": 4,
+            "title": "Acertijo",
+            "text": "<p>Text</p>",
+            "gameDescription": "<p><strong>JUEGO:</strong>Sopa de letras</p>",
+            "gameType": "wordsearch",
+            "options": {
+            "words": [
+                "cine",
+                "foco",
+                "luz",
+                "lente"
             ]
             },
             "route": "modulos/modulo-1/texto",

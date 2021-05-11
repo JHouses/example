@@ -4,17 +4,10 @@
             "_id": 1,
             "title": "Acertijo",
             "text": "<p>Text</p>",
-            "gameDescription": "<p><strong>JUEGO:</strong>Hay que completar una frase que refuerza el contenido del texto con una palabra a través del juego de ahorcado.</p>",
-            "gameType": "hangman",
-            "options": {
-            "words": [
-                "cine",
-                "pelicula",
-                "semilla",
-                "obra"
-            ]
-            },
-            "route": "modulos/modulo-1/text",
+            "gameDescription": "<p><strong>JUEGO:</strong>Armar rompecabezas con una imagen emblemática acerca del audiovisual. </p>",
+            "gameType": "imagepairing",
+            "options": { },
+            "route": "modulos/modulo-1/texto",
             "layout": "contentModule",
             "position": 1
         }
