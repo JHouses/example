@@ -223,6 +223,17 @@
             "route": "modulos/modulo-1/texto",
             "layout": "contentModule",
             "position": 10
-        }     
+        },
+        {
+            "_id": 11,
+            "title": "Acertijo",
+            "text": "<p>Text</p>",
+            "gameDescription": "<p><strong>JUEGO:</strong>Armar rompecabezas con una imagen emblemática acerca del audiovisual. </p>",
+            "gameType": "organizetheimages",
+            "options": { },
+            "route": "modulos/modulo-1/texto",
+            "layout": "contentModule",
+            "position": 11
+        }
     ]
 }
