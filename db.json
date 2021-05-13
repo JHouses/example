@@ -5,7 +5,7 @@
             "title": "Acertijo",
             "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Armar rompecabezas con una imagen emblemática acerca del audiovisual. </p>",
-            "gameType": "puzzle",
+            "gameType": "imagepairing",
             "options": { },
             "route": "modulos/modulo-1/texto",
             "layout": "contentModule",
