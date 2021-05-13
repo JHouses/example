@@ -4,9 +4,16 @@
             "_id": 1,
             "title": "Acertijo",
             "text": "<p>Text</p>",
-            "gameDescription": "<p><strong>JUEGO:</strong>Armar rompecabezas con una imagen emblemática acerca del audiovisual. </p>",
-            "gameType": "puzzle",
-            "options": { },
+            "gameDescription": "<p><strong>JUEGO:</strong>Hay que completar una frase que refuerza el contenido del texto con una palabra a través del juego de ahorcado.</p>",
+            "gameType": "hangman",
+            "options": {
+            "words": [
+                "cine",
+                "pelicula",
+                "semilla",
+                "obra"
+            ]
+            },
             "route": "modulos/modulo-1/texto",
             "layout": "contentModule",
             "position": 1
@@ -15,44 +22,9 @@
             "_id": 2,
             "title": "Acertijo",
             "text": "<p>Text</p>",
-            "gameDescription": "<p><strong>JUEGO:</strong>Crucigrama</p>",
-            "gameType": "crossword",
-            "options": {
-            "words": [
-                {
-                    "word": "cine",
-                    "description": "Sinónimo de película"
-                },
-                {
-                    "word": "pelicula",
-                    "description": "Sinónimo de cine"
-                },
-                {
-                    "word": "semilla",
-                    "description": "Fruto de la tierra"
-                },
-                {
-                    "word": "obra",
-                    "description": "Es similar al arte, es la apreciación de..."
-                },
-                {
-                    "word": "audiovisual",
-                    "description": "Es el complemento del especial ser..."
-                },
-                {
-                    "word": "cinta",
-                    "description": "Rodillo y mecanismo antiguo para la visualización de..."
-                },
-                {
-                    "word": "actor",
-                    "description": "Persona que interpreta un personaje en una obra."
-                },
-                {
-                    "word": "camara",
-                    "description": "Elemento de grabación"
-                }
-            ]
-            },
+            "gameDescription": "<p><strong>JUEGO:</strong>Armar rompecabezas con una imagen emblemática acerca del audiovisual. </p>",
+            "gameType": "puzzle",
+            "options": { },
             "route": "modulos/modulo-1/texto",
             "layout": "contentModule",
             "position": 2
