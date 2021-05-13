@@ -10,6 +10,52 @@
             "route": "modulos/modulo-1/texto",
             "layout": "contentModule",
             "position": 1
+        },
+        {
+            "_id": 2,
+            "title": "Acertijo",
+            "text": "<p>Text</p>",
+            "gameDescription": "<p><strong>JUEGO:</strong>Crucigrama</p>",
+            "gameType": "crossword",
+            "options": {
+            "words": [
+                {
+                    "word": "cine",
+                    "description": "Sinónimo de película"
+                },
+                {
+                    "word": "pelicula",
+                    "description": "Sinónimo de cine"
+                },
+                {
+                    "word": "semilla",
+                    "description": "Fruto de la tierra"
+                },
+                {
+                    "word": "obra",
+                    "description": "Es similar al arte, es la apreciación de..."
+                },
+                {
+                    "word": "audiovisual",
+                    "description": "Es el complemento del especial ser..."
+                },
+                {
+                    "word": "cinta",
+                    "description": "Rodillo y mecanismo antiguo para la visualización de..."
+                },
+                {
+                    "word": "actor",
+                    "description": "Persona que interpreta un personaje en una obra."
+                },
+                {
+                    "word": "camara",
+                    "description": "Elemento de grabación"
+                }
+            ]
+            },
+            "route": "modulos/modulo-1/texto",
+            "layout": "contentModule",
+            "position": 2
         }
     ]
 }
