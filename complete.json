@@ -90,6 +90,17 @@
             "_id": 5,
             "title": "Acertijo",
             "text": "<p>Text</p>",
+            "gameDescription": "<p><strong>JUEGO:</strong>Armar rompecabezas con una imagen emblemática acerca del audiovisual. </p>",
+            "gameType": "guessthepicture",
+            "options": { },
+            "route": "modulos/modulo-1/texto",
+            "layout": "contentModule",
+            "position": 5
+        },
+        {
+            "_id": 6,
+            "title": "Acertijo",
+            "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Sopa de letras</p>",
             "gameType": "wordsearch",
             "options": {
@@ -102,10 +113,10 @@
             },
             "route": "modulos/modulo-1/texto",
             "layout": "contentModule",
-            "position": 5
+            "position": 6
         },
         {
-            "_id": 6,
+            "_id": 7,
             "title": "OÍMOS, LUEGO EXISTIMOS",
             "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Escuchamos un audio acerca del lugar que representa una imagen. Se deben seleccionar las palabras que describen los sonidos que componen el audio.</p>",
@@ -140,10 +151,10 @@
             },
             "route": "modulos/modulo-1/texto",
             "layout": "contentModule",
-            "position": 6
+            "position": 7
         },
         {
-            "_id": 7,
+            "_id": 8,
             "title": "EDITAMOS, LUEGO EXISTIMOS ",
             "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong>Cartas</p>",
@@ -151,10 +162,10 @@
             "options": { },
             "route": "modulos/modulo-1/texto",
             "layout": "contentModule",
-            "position": 7
+            "position": 8
         },
         {
-            "_id": 8,
+            "_id": 9,
             "title": "PENSAMOS, LUEGO EXISTIMOS ",
             "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong> Llenar espacios en blanco con la información más importante acerca del texto</p>",
@@ -173,10 +184,10 @@
             },
             "route": "modulos/modulo-1/texto",
             "layout": "contentModule",
-            "position": 8
+            "position": 9
         },
         {
-            "_id": 9,
+            "_id": 10,
             "title": "CREAMOS, LUEGO EXISTIMOS ",
             "text": "<p>Text</p>",
             "gameDescription": "<p><strong>JUEGO:</strong> Encontrar las parejas de imágenes que crean conceptos o tienen relación de acuerdo al texto.</p>",
@@ -211,7 +222,7 @@
             },
             "route": "modulos/modulo-1/texto",
             "layout": "contentModule",
-            "position": 9
+            "position": 10
         }     
     ]
 }
